@@ -1,0 +1,15 @@
+
+
+.intro h1 {
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-family: Loboto;
+  color: #172735;
+  text-align: center;
+}
+.intro p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #172735;
+}
