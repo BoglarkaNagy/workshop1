@@ -13,3 +13,8 @@
     font-weight: 500;
     color: #172735;
 }
+
+.menu {
+  display: flexbox;
+  justify-content: flex-end;
+}
