@@ -1,12 +1,14 @@
 
-
+.training{
+  width: 1140px;
+  margin: auto;
+  }
 .intro h1 {
   font-size: 16px;
   font-weight: 900;
   font-style: normal;
   font-family: Loboto;
   color: #172735;
-  text-align: center;
 }
 .intro p {
     font-size: 16px;
@@ -15,6 +17,54 @@
 }
 
 .menu {
-  display: flexbox;
+  width: 1140px;
+  margin: auto;
+  display: flex;
   justify-content: flex-end;
+}
+
+.logo{
+  padding-right: 80px;
+}
+.menu a {
+  padding: 24px;
+  margin: 4px;
+}
+
+.product{
+  width: 1140px;
+  margin:auto
+}
+
+.offline{
+  width: 1140px;
+  margin: auto;
+}
+
+.cubes {
+  width: 1140px;
+  margin: auto;
+  display: grid;
+  padding: 6px;
+}
+
+.white {
+  width: 372px;
+  height: 282px;
+  background-color: #ffffff;
+}
+
+.intro {
+  width: 1140px;
+  margin: auto;
+  display: grid;
+  padding: 54px;
+  gap: 40px;
+}
+
+footer {
+  width: 1140px;
+  margin: auto;
+  display: grid;
+
 }
