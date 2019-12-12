@@ -2,7 +2,12 @@
 
 header {
   background-image: url("assets/image.png");
-  background-color: ;
+  background-color: #454545;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+  color: white;
+
 }
 
 /* NAVIGATION */
